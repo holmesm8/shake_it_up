@@ -25,6 +25,10 @@ To run the test suite, simply run the command `rspec` from your terminal.
 ### API Keys Needed
 * Google API
 
+### Random Restaurant Screenshot
+<img width="907" alt="Screen Shot 2020-05-04 at 9 16 05 AM" src="https://user-images.githubusercontent.com/12539215/80982892-24a65b80-8de9-11ea-917d-1a3dfe061f8f.png">
+
+
 ## Project Collaborators
 
 * Cassie Achzenick - https://github.com/caachz
